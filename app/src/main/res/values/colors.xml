@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#5677fc</color>
+    <color name="primary_dark">#5677fc</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="accent">#FF9800</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="tint">#4D000000</color>
+
+    <color name="progress_background">#B6B6B6</color>
+    <color name="color_salty">#83d3d0</color>
+    <color name="color_savory">#e08720</color>
+    <color name="color_sour">#e2c713</color>
+    <color name="color_bitter">#7bb338</color>
+    <color name="color_sweet">#e87aab</color>
+    <color name="color_spicy">#d4472b</color>
+
+</resources>
